@@ -101,8 +101,8 @@ A comprehensive web application built with Laravel for managing a library's book
    DB_HOST=127.0.0.1
    DB_PORT=3306
    DB_DATABASE=weekendlaravelapp20252
-   DB_USERNAME=your_username
-   DB_PASSWORD=your_password
+   DB_USERNAME=root
+   DB_PASSWORD=
    ```
 
 6. **Run Migrations and Seeders**
@@ -219,6 +219,7 @@ The application includes:
 - **Intuitive Forms**: Clean, validated forms for data entry
 - **Search Interface**: Real-time search and filtering
 - **Status Indicators**: Visual badges for book availability and overdue items
+
 
 ## 🚀 Future Enhancements
 
