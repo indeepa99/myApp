@@ -71,7 +71,7 @@ A comprehensive web application built with Laravel for managing a library's book
 
 1. **Clone/Download the Project**
    ```bash
-   git clone <https://github.com/indeepa99/myApp.git>
+   git clone https://github.com/indeepa99/myApp.git
    cd myApp
    ```
 
